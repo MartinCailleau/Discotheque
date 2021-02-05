@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: fca5328980caf5e41bdf35884f7065e4
+timeCreated: 1506518260
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MonoLED: {fileID: 2800000, guid: 5dedc2f12e94c524cbd4a5c5b96bc9a2, type: 3}
+  - _Text: {fileID: 2800000, guid: 5ee8c0a33fb66c34bb68f45d4a1aad45, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
